@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cuenta kilometros</string>
+    <string name="permission_denied">Permisos de localización requeridos</string>
+</resources>
